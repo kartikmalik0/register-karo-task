@@ -10,3 +10,10 @@ body{
 .hero-background{
   background-image: url(/hero-bg.png);
 }
+.benfit-bg {
+  background: linear-gradient(270deg, #22417A 0%, #3F78E0 100%);
+  -webkit-background-clip: text; /* For Chrome, Safari, and Opera */
+  -moz-background-clip: text; /* For Firefox */
+  background-clip: text; /* Standard syntax */
+  color: transparent; /* Hide the text color to show the gradient */
+}

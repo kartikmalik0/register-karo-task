@@ -26,7 +26,7 @@ const HeroContact = () => {
                     Expert consultation
                 </p>
 
-                <form action="">
+                <form action="" className=" ">
                     <div className="flex flex-col gap-2">
                         <div>
                             <label

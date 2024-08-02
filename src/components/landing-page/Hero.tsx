@@ -6,7 +6,7 @@ import Benfits from './Benfits'
 
 const Hero = () => {
     return (
-        <section className='min-h-[53.313rem] bg-center bg-cover hero-background relative'>
+        <section className='min-h-[57.313rem] bg-center bg-cover hero-background relative'>
             <nav className="flex w-full bg-white md:bg-transparent items-center px-4 md:px-20 justify-between">
                 <Image
                     src={"/logo.png"}

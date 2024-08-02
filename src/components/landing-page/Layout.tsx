@@ -1,13 +1,15 @@
 import Benfits from "./Benfits"
+import CheckList from "./CheckList"
 import Hero from "./Hero"
 import SiteNav from "./SiteNav"
 
 const Layout = () => {
   return (
-    <div >
+    <div className="" >
       <SiteNav />
       <Hero />
       <Benfits />
+      <CheckList/>
     </div>
   )
 }
