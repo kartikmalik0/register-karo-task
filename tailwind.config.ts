@@ -15,6 +15,7 @@ const config: Config = {
                 headingFree: "#1C4670",
                 headingFreeSubFont: "#1C4670",
                 faqBg: "#F2F5FE",
+                btYellow: "#FFA229",
             },
             backgroundImage: {
                 "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",

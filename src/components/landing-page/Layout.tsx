@@ -1,11 +1,13 @@
+import Benfits from "./Benfits"
 import Hero from "./Hero"
 import SiteNav from "./SiteNav"
 
 const Layout = () => {
   return (
     <div >
-      <SiteNav/>
-      <Hero/>
+      <SiteNav />
+      <Hero />
+      <Benfits />
     </div>
   )
 }
